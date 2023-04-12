@@ -1,6 +1,6 @@
 # ✨ FIND YOUR INNER PEACE ✨
 
-This is a web based application developed for providing information related to meditation and diffrent types of meditation  in india
+This is a web based application developed for providing information related to meditation and yoga  in india
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
