@@ -1,4 +1,4 @@
-# ✨  INNER PEACE ✨
+# ✨ FIND YOUR INNER PEACE ✨
 
 This is a web based application developed for providing information related to meditation and diffrent types of meditation  in india
 
